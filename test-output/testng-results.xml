@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64469" started-at="2019-07-19T03:58:58Z" finished-at="2019-07-19T04:00:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64469" started-at="2019-07-19T03:58:58Z" finished-at="2019-07-19T04:00:02Z">
+      <class name="com.VirtualFacility.qa.testcases.PairTradingViewPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="setUp" is-config="true" duration-ms="9456" started-at="2019-07-19T03:58:58Z" finished-at="2019-07-19T03:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inputLimitAmountTest()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="inputLimitAmountTest" duration-ms="3530" started-at="2019-07-19T03:59:07Z" finished-at="2019-07-19T03:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputLimitAmountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="tearDown" is-config="true" duration-ms="809" started-at="2019-07-19T03:59:11Z" finished-at="2019-07-19T03:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="setUp" is-config="true" duration-ms="8039" started-at="2019-07-19T03:59:12Z" finished-at="2019-07-19T03:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="stopLimitBtnTest()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="stopLimitBtnTest" duration-ms="2155" started-at="2019-07-19T03:59:20Z" finished-at="2019-07-19T03:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopLimitBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="tearDown" is-config="true" duration-ms="875" started-at="2019-07-19T03:59:22Z" finished-at="2019-07-19T03:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="setUp" is-config="true" duration-ms="8313" started-at="2019-07-19T03:59:23Z" finished-at="2019-07-19T03:59:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLimitBtnTest()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="verifyLimitBtnTest" duration-ms="2237" started-at="2019-07-19T03:59:31Z" finished-at="2019-07-19T03:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLimitBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="tearDown" is-config="true" duration-ms="859" started-at="2019-07-19T03:59:33Z" finished-at="2019-07-19T03:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="setUp" is-config="true" duration-ms="10410" started-at="2019-07-19T03:59:34Z" finished-at="2019-07-19T03:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMarketBtnTest()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="verifyMarketBtnTest" duration-ms="2506" started-at="2019-07-19T03:59:45Z" finished-at="2019-07-19T03:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMarketBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="tearDown" is-config="true" duration-ms="894" started-at="2019-07-19T03:59:47Z" finished-at="2019-07-19T03:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="setUp" is-config="true" duration-ms="10281" started-at="2019-07-19T03:59:48Z" finished-at="2019-07-19T03:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTradingChartTest()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="verifyTradingChartTest" duration-ms="3170" started-at="2019-07-19T03:59:58Z" finished-at="2019-07-19T04:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTradingChartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.VirtualFacility.qa.testcases.PairTradingViewPageTest@14acaea5]" name="tearDown" is-config="true" duration-ms="895" started-at="2019-07-19T04:00:01Z" finished-at="2019-07-19T04:00:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.VirtualFacility.qa.testcases.PairTradingViewPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
